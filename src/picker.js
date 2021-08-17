@@ -10,7 +10,7 @@ const PickerItem = WheelCurvedPicker.Item;
 const styles = StyleSheet.create({
   picker: {
     backgroundColor: '#d3d3d3',
-    height: 220,
+    height: 100,
   },
 });
 
